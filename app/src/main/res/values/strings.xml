@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- About -->
+    <string name="link">Website: fb.com/vuiit</string>
+
+    <!-- Toolbar -->
+    <string name="app_name">Ghi âm</string>
+    <string name="action_licenses">Licenses</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="tab_title_record">Ghi âm</string>
+    <string name="tab_title_saved_recordings">Bản ghi đã lưu</string>
+    <string name="tab_title_setting">Cài đặt</string>
+
+    <!-- Toasts -->
+    <string name="toast_recording_start">Bắt đầu ghi</string>
+    <string name="toast_recording_finish">Đã lưu bản ghi</string>
+    <string name="toast_file_delete">%1$s đã xóa thành công</string>
+    <string name="toast_file_exists">Tên tệp %1$s đã tồn tại. Vui lòng chọn tên khác.</string>
+
+    <!-- Notifications -->
+    <string name="notification_recording">Đang ghi...</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_title_delete">Xác nhận xóa...</string>
+    <string name="dialog_text_delete">Xóa \"%1$s\"?</string>
+    <string name="dialog_title_licenses">Giấy phép nguồn mở</string>
+    <string name="dialog_title_share">Chia sẻ</string>
+    <string name="dialog_title_rename">Đổi tên</string>
+    <string name="dialog_title_options">Tùy chọn</string>
+
+    <string name="dialog_file_share">Chia sẻ tệp</string>
+    <string name="dialog_file_rename">Đổi tên tệp</string>
+    <string name="dialog_file_delete">Xóa tệp</string>
+    <string name="dialog_action_cancel">Hủy</string>
+    <string name="dialog_action_ok">Xác nhận</string>
+    <string name="dialog_action_yes">Có</string>
+    <string name="dialog_action_no">Không</string>
+
+    <string name="no_saved_recordings_message">Không có bản ghi nào được lưu</string>
+    <string name="pause_recording_button">Dừng</string>
+    <string name="resume_recording_button">Tiếp tục</string>
+    <string name="default_file_name">Ban_ghi</string>
+    <string name="record_prompt">Nhấn nút để bắt đầu ghi</string>
+    <string name="record_in_progress">Đang ghi</string>
+
+    <string name="send_to">Gửi đến</string>
+
+    <!-- Preferences -->
+    <string name="pref_high_quality_key">pref_high_quality</string>
+    <string name="pref_high_quality_title">Bật ghi chất lượng cao</string>
+    <string name="pref_high_quality_desc">Ghi lại chất lượng CD</string>
+    <string name="pref_about_key">pref_about</string>
+    <string name="pref_about_title">Phiên bản</string>
+    <string name="pref_about_desc">v%s</string>
+
+</resources>
